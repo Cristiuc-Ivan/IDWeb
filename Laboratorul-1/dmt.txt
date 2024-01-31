@@ -1,0 +1,182 @@
+commit e061629e5c59954fc130fc1c5e28d19642a09713
+Merge: 9ab5ea2 241351c
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:28:23 2024 +0200
+
+    Merge branch 'rust'
+
+commit 9ab5ea2fa450a92719e31c96d54a21f67915726d
+Merge: 2b15352 f60f33a
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:28:20 2024 +0200
+
+    Merge branch 'ruby'
+
+commit 2b15352ee8f0e8c5194ff730031bbba995f18976
+Merge: beb6ba8 cb46f47
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:28:13 2024 +0200
+
+    Merge branch 'python'
+
+commit beb6ba858dd28b79c3f38a8b7e34354eada1bab9
+Merge: ec45961 3e01912
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:28:05 2024 +0200
+
+    Merge branch 'kotlin'
+
+commit ec459612bce4b23895c476844f0c097daabc8e01
+Merge: f4e93ef 692d1dd
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:28:00 2024 +0200
+
+    Merge branch 'java'
+
+commit f4e93eff8af61be6357f4e4d494799d3224b9697
+Merge: ee46640 793efae
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:27:36 2024 +0200
+
+    Merge branch 'c++'
+
+commit ee46640adc60bf214541ac7c07708eaca1a319fd
+Merge: af505af 5d48474
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:27:30 2024 +0200
+
+    Merge branch 'c#'
+
+commit af505afd15081ba1dbb621ffc56d72fa310d67cf
+Merge: 77c6efc 8a64b02
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:27:20 2024 +0200
+
+    Merge branch 'c'
+
+commit 77c6efcb6ae0e386ef8b10d0bc09496fa97a4398
+Merge: 667eb4e ecf26a5
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Wed Jan 31 19:27:15 2024 +0200
+
+    Merge branch 'assembly'
+
+commit 667eb4efe2deb503864b74157fcaa3136e446644
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:57:18 2024 +0200
+
+    Added Name, Surname, Group, Faculty
+
+commit 241351c23c69eaa3489dce72c930a92e197dce2c
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:51:23 2024 +0200
+
+    Written Hello World
+
+commit f60f33a6003a715bf0410f6d66e8a6a576bd820a
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:50:29 2024 +0200
+
+    Written Hello World
+
+commit cb46f4786d04b5d5f6408b2e7da8b2ee8fce0f9c
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:49:20 2024 +0200
+
+    Written Hello World
+
+commit 3e01912dba744222bee804d6da38738b3cceaad6
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:48:01 2024 +0200
+
+    Written Hello World
+
+commit 692d1dd4fee7a1a7309fd03451466770d9aa9eb1
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:43:09 2024 +0200
+
+    Written Hello World
+
+commit 793efae4ab44c091f6e8410c30c0324a4bc0cc11
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:41:07 2024 +0200
+
+    Written Hello World
+
+commit 5d4847437ad8dc6b104d3cdd8e889155f8663372
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:35:06 2024 +0200
+
+    Written Hello World
+
+commit 8a64b0200ac35b07ce022b1af628d1aee8478f63
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:34:00 2024 +0200
+
+    Written Hello World
+
+commit ecf26a53fbe91bf4e5aac1bf4832db2019ee6f8b
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:31:52 2024 +0200
+
+    Written Hello World
+
+commit d0b1b3a8ea538efcc9be31936b4563d14207f38c
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:18:14 2024 +0200
+
+    Created file main.rb
+
+commit 049fbe7443f79f71c4dfef75f9d7ec67d3a3423d
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:16:50 2024 +0200
+
+    Created file main.rb
+
+commit bc36a1cfe24bbc39fc05892bbe3cc728368645f7
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:14:06 2024 +0200
+
+    Created file main.rs
+
+commit 372f32e1b7a5744c87478d6a3a513ba02bed5af2
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:10:11 2024 +0200
+
+    Created file main.asm
+
+commit 774eb4b024900a73e673c9343a48b13dc20057d8
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:06:57 2024 +0200
+
+    Created file main.kt
+
+commit 5688c5b2b0caad5ae6ca5f1ceba57f4b6e3050c7
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:02:37 2024 +0200
+
+    Created file main.cs
+
+commit 0454ee9f93c22a2befed07e15b4f4a68015b2ebc
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 19:01:11 2024 +0200
+
+    Created file main.cpp
+
+commit 9305a6fa7a6c7499d9474f7184e7c62c71b2c566
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 18:58:06 2024 +0200
+
+    Createed file main.java
+
+commit b8e73b63861f6d1b3bb46375396c37380ab51882
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 18:54:37 2024 +0200
+
+    Created file main.c
+
+commit 20b80eee1d235d1b71687e14ee5bdde89e687f5b
+Author: Ivan Cristiuc <vkristiuk797@gmail.com>
+Date:   Tue Jan 30 18:51:41 2024 +0200
+
+    Create file index.html
